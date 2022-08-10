@@ -6,4 +6,4 @@ This is a description!
 
 # local development
 
-1. open index.html
+1. open
